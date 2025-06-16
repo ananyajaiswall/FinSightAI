@@ -1,0 +1,44 @@
+{
+  "insights": [
+    {
+      "text": "Total income showed a growth from 3507.0 in Q4 2023 to 5657.0 in Q4 2024, indicating a significant increase in revenue.",
+      "sentiment": "positive",
+      "score": 0.9502511620521545
+    },
+    {
+      "text": "The sequential growth in total income from 5020.0 in Q3 2024 to 5657.0 in Q4 2024 demonstrates positive revenue momentum.",
+      "sentiment": "positive",
+      "score": 0.9531127214431763
+    },
+    {
+      "text": "Net profit increased from 138.0 in Q4 2023 to 59.0 in Q4 2024, showing a positive trend, although the margin is lower.",
+      "sentiment": "positive",
+      "score": 0.9410879015922546
+    },
+    {
+      "text": "The sequential growth in net profit from 176.0 in Q3 2024 to 59.0 in Q4 2024 is negative, requiring further investigation.",
+      "sentiment": "negative",
+      "score": 0.9478393793106079
+    },
+    {
+      "text": "Earnings per share (EPS) showed a growth from 0.16 in Q4 2023 to 0.07 in Q4 2024, but the margin is much lower.",
+      "sentiment": "positive",
+      "score": 0.5037998557090759
+    },
+    {
+      "text": "The sequential EPS growth from 0.21 in Q3 2024 to 0.07 in Q4 2024 is a significant decline.",
+      "sentiment": "negative",
+      "score": 0.9703168869018555
+    },
+    {
+      "text": "India food ordering and delivery segment consistently demonstrates strong profitability across all quarters, with a high net profit percentage.",
+      "sentiment": "positive",
+      "score": 0.9502501487731934
+    },
+    {
+      "text": "The Hyperpure segment shows inconsistent performance, fluctuating between losses and negligible profits; requiring strategic review.",
+      "sentiment": "negative",
+      "score": 0.9706465601921082
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "companyName": "Zomato Limited",
+  "financials": [
+    {
+      "quarter": "December 31, 2024",
+      "revenue": "5405",
+      "totalExpenses": "5533",
+      "netProfit": "59",
+      "netProfitPercentage": "1.09%",
+      "earningsPerShare": "0.07"
+    },
+    {
+      "quarter": "September 30, 2024",
+      "revenue": "4799",
+      "totalExpenses": "4783",
+      "netProfit": "16",
+      "netProfitPercentage": "0.33%",
+      "earningsPerShare": "0.06"
+    },
+    {
+      "quarter": "December 31, 2023",
+      "revenue": "3288",
+      "totalExpenses": "3383",
+      "netProfit": "(95)",
+      "netProfitPercentage": "-2.89%",
+      "earningsPerShare": "0.16"
+    }
+  ],
+  "segmentResults": [
+    {
+      "quarter": "December 31, 2024",
+      "segment": "India food ordering and delivery",
+      "revenue": "2072",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2024",
+      "segment": "Hyperpure supplies (B2B business)",
+      "revenue": "1671",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2024",
+      "segment": "Quick commerce",
+      "revenue": "1399",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2024",
+      "segment": "Going Out",
+      "revenue": "259",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2024",
+      "segment": "All other segments (residual)",
+      "revenue": "4",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "September 30, 2024",
+      "segment": "India food ordering and delivery",
+      "revenue": "2012",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "September 30, 2024",
+      "segment": "Hyperpure supplies (B2B business)",
+      "revenue": "1473",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "September 30, 2024",
+      "segment": "Quick commerce",
+      "revenue": "1156",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "September 30, 2024",
+      "segment": "Going Out",
+      "revenue": "154",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "September 30, 2024",
+      "segment": "All other segments (residual)",
+      "revenue": "4",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2023",
+      "segment": "India food ordering and delivery",
+      "revenue": "1704",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2023",
+      "segment": "Hyperpure supplies (B2B business)",
+      "revenue": "859",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2023",
+      "segment": "Quick commerce",
+      "revenue": "644",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2023",
+      "segment": "Going Out",
+      "revenue": "73",
+      "netProfitPercentage": ""
+    },
+    {
+      "quarter": "December 31, 2023",
+      "segment": "All other segments (residual)",
+      "revenue": "8",
+      "netProfitPercentage": ""
+    }
+  ],
+  "insights": {
+    "revenueGrowth": [
+      "Revenue showed a significant increase from 3288 in Dec 2023 to 5405 in Dec 2024.",
+      "The revenue growth between Q3 2024 and Q4 2024 was substantial."
+    ],
+    "netProfitGrowth": [
+      "Net profit improved significantly from a loss in Dec 2023 to a profit in Dec 2024.",
+      "Profitability increased despite higher total expenses."
+    ],
+    "earningsPerShareGrowth": [
+      "EPS increased from 0.06 in Q3 2024 to 0.07 in Q4 2024.",
+      "Compared to Dec 2023, EPS in Dec 2024 shows improvement but is still low."
+    ],
+    "segmentPerformance": [
+      "Segment-wise data is insufficient to draw meaningful insights.",
+      "Further analysis with complete segment profit data is needed for better insights."
+    ]
+  },
+  "managementCommentary": [
+    "The board of directors approved the unaudited financial results for the quarter and nine months ended on December 31, 2024.",
+    "Financial Results have been subjected to limited review by M/s Deloitte Haskins & Sells.",
+    "The Company received demand orders from GST authorities regarding GST on delivery charges.",
+    "The Company is of the view that it has a strong case on merits regarding the GST demand orders.",
+    "The Company completed the acquisition of Orbgen Technologies Private Limited and Wasteland Entertainment Private Limited.",
+    "The Company allotted equity shares to Foodie Bay Employees ESOP Trust."
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "companyName": "Reliance Industries Limited",
+  "financials": [
+    {
+      "quarter": "31 Dec 2024",
+      "totalIncome": 248079,
+      "totalExpenses": 219436,
+      "netProfit": 21804,
+      "netProfitPercentage": 8.8,
+      "earningsPerShare": 13.7
+    },
+    {
+      "quarter": "30 Sep 2024",
+      "totalIncome": 240357,
+      "totalExpenses": 215320,
+      "netProfit": 19101,
+      "netProfitPercentage": 8,
+      "earningsPerShare": 12.24
+    },
+    {
+      "quarter": "31 Dec 2023",
+      "totalIncome": 231839,
+      "totalExpenses": 206006,
+      "netProfit": 19488,
+      "netProfitPercentage": 8.4,
+      "earningsPerShare": 12.76
+    }
+  ],
+  "segmentResults": [
+    {
+      "quarter": "31 Dec 2024",
+      "segments": [
+        {
+          "name": "Oil to Chemicals (O2C)",
+          "totalIncome": 149595,
+          "netProfit": 12819,
+          "netProfitPercentage": 8.6
+        },
+        {
+          "name": "Oil and Gas",
+          "totalIncome": 6370,
+          "netProfit": 4222,
+          "netProfitPercentage": 66.3
+        },
+        {
+          "name": "Retail",
+          "totalIncome": 90351,
+          "netProfit": 5322,
+          "netProfitPercentage": 5.9
+        },
+        {
+          "name": "Digital Services",
+          "totalIncome": 39733,
+          "netProfit": 10252,
+          "netProfitPercentage": 25.8
+        },
+        {
+          "name": "Others",
+          "totalIncome": 12236,
+          "netProfit": 114,
+          "netProfitPercentage": 0.9
+        }
+      ]
+    },
+    {
+      "quarter": "30 Sep 2024",
+      "segments": [
+        {
+          "name": "Oil to Chemicals (O2C)",
+          "totalIncome": 155580,
+          "netProfit": 10613,
+          "netProfitPercentage": 6.8
+        },
+        {
+          "name": "Oil and Gas",
+          "totalIncome": 6222,
+          "netProfit": 3947,
+          "netProfitPercentage": 63.4
+        },
+        {
+          "name": "Retail",
+          "totalIncome": 76325,
+          "netProfit": 4432,
+          "netProfitPercentage": 5.8
+        },
+        {
+          "name": "Digital Services",
+          "totalIncome": 38055,
+          "netProfit": 9858,
+          "netProfitPercentage": 25.9
+        },
+        {
+          "name": "Others",
+          "totalIncome": 11623,
+          "netProfit": 175,
+          "netProfitPercentage": 1.5
+        }
+      ]
+    },
+    {
+      "quarter": "31 Dec 2023",
+      "segments": [
+        {
+          "name": "Oil to Chemicals (O2C)",
+          "totalIncome": 141096,
+          "netProfit": 11994,
+          "netProfitPercentage": 8.5
+        },
+        {
+          "name": "Oil and Gas",
+          "totalIncome": 6719,
+          "netProfit": 4116,
+          "netProfitPercentage": 61.2
+        },
+        {
+          "name": "Retail",
+          "totalIncome": 83040,
+          "netProfit": 4864,
+          "netProfitPercentage": 5.9
+        },
+        {
+          "name": "Digital Services",
+          "totalIncome": 33463,
+          "netProfit": 8356,
+          "netProfitPercentage": 25
+        },
+        {
+          "name": "Others",
+          "totalIncome": 12476,
+          "netProfit": 117,
+          "netProfitPercentage": 0.9
+        }
+      ]
+    }
+  ],
+  "insights": {
+    "totalIncomeGrowth": [
+      "Total income saw a growth from 231,839 crore in Dec 2023 to 248,079 crore in Dec 2024, indicating a positive trend.",
+      "The sequential growth in total income from Sep 2024 to Dec 2024 shows a positive momentum."
+    ],
+    "netProfitGrowth": [
+      "Net profit experienced growth from 19,488 crore in Dec 2023 to 21,804 crore in Dec 2024.",
+      "The sequential growth from Sep 2024 to Dec 2024 shows a positive trend."
+    ],
+    "earningsPerShareGrowth": [
+      "Earnings per share (EPS) increased from 12.76 in Dec 2023 to 13.7 in Dec 2024.",
+      "The sequential growth in EPS from Sep 2024 to Dec 2024 indicates a positive trend."
+    ],
+    "segmentPerformance": [
+      "The Oil to Chemicals segment showed consistent growth in revenue and net profit percentage across all quarters.",
+      "Digital services maintained strong revenue growth and consistent net profit percentage across quarters."
+    ]
+  },
+  "managementCommentary": [
+    "Restructuring of Media and Jio Cinema businesses into Star India Private Limited.",
+    "Investment of ₹11,500 crore in SIPL.",
+    "Total Non-Convertible Debentures outstanding (before netting off prepaid finance charges and Fair Valuation Impact) as on December 31, 2024 are ₹ 30,889 crore.",
+    "Secured Non-Convertible Debentures are ₹21,000 crore.",
+    "Redemption of Listed Unsecured Redeemable Non-Convertible Debentures of ₹ 1,437 crore and of ₹ 5,000 crore.",
+    "Part redemption of ₹ 1,000 crore of Listed Secured Redeemable Non-Convertible Debentures."
+  ]
+}
