@@ -8,6 +8,9 @@ import LoginPage from './pages/LoginPage';
 import DashboardPage from './pages/DashboardPage';
 import ContactPage from './pages/ContactPage';
 import AnalysisPage from './pages/AnalysisPage';
+import SignupPage from './pages/SignupPage';
+
+
 
 function App() {
   return (
@@ -23,6 +26,7 @@ function App() {
             <Route path="/dashboard" element={<DashboardPage />} />
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/analysis" element={<AnalysisPage />} />
+            <Route path="/signup" element={<SignupPage />} />
           </Routes>
         </main>
         <Footer />

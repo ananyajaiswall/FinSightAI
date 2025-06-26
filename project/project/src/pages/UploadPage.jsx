@@ -31,35 +31,44 @@ function UploadPage() {
   };
 
   const handleGenerateClick = async () => {
-    if (!file) {
-      alert("Please upload a file first!");
-      return;
+  if (!file) {
+    alert("Please upload a file first!");
+    return;
+  }
+
+  const token = localStorage.getItem('token');
+  if (!token) {
+    alert('Please login first!');
+    return;
+  }
+
+  setLoading(true);
+
+  const formData = new FormData();
+  formData.append("file", file);
+
+  try {
+    const response = await fetch("http://localhost:5000/upload", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${token}`,
+      },
+      body: formData,
+    });
+
+    const data = await response.json();
+    if (response.ok) {
+      alert("Analysis complete!");
+      navigate("/analysis");
+    } else {
+      alert("Error: " + data.error);
     }
+  } catch (error) {
+    alert("Failed to connect to the server!");
+  }
 
-    setLoading(true);
-
-    const formData = new FormData();
-    formData.append("file", file);
-
-    try {
-      const response = await fetch("http://localhost:5000/upload", {
-        method: "POST",
-        body: formData,
-      });
-
-      const data = await response.json();
-      if (response.ok) {
-        alert("Analysis complete!");
-        navigate("/analysis");
-      } else {
-        alert("Error: " + data.error);
-      }
-    } catch (error) {
-      alert("Failed to connect to the server!");
-    }
-
-    setLoading(false);
-  };
+  setLoading(false);
+};
 
   return (
     <div className="container mx-auto px-4 py-8">
